@@ -18,6 +18,7 @@
     "handlebars": "^4.7.7",
     "jquery": "^3.6.0",
     "semantic-ui-css": "^2.4.1",
-    "simplewebrtc": "^3.0.2"
+    "simplewebrtc": "^3.0.2",
+    "vercel": "^23.0.1"
   }
 }
