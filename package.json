@@ -4,12 +4,15 @@
   "description": "trial",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "keywords": [],
   "author": "arshad",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:arshadace/video-chat.git"
+  },
   "dependencies": {
     "express": "^4.17.1",
     "handlebars": "^4.7.7",
